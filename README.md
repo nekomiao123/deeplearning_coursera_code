@@ -11,6 +11,8 @@ This is all code about the course——DeepLearning
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - [Brief Summary](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/brief%20summary.md)
+  - [Week 1 - PA 1 - Initialization](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - 1
 - Course 3: Structuring Machine Learning Projects
   - There is no PA for this course
