@@ -55,3 +55,8 @@ Finally, try "He Initialization"; this is named for the first author of He et al
 - Random initialization is used to break symmetry and make sure different hidden units can learn different things
 - Don't intialize to values that are too large
 - He initialization works well for networks with ReLU activations.
+
+
+
+## Regularization
+
