@@ -13,8 +13,8 @@ This is all code about the course——DeepLearning
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - [Brief Summary](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/brief%20summary.md)
   - [Week 1 - PA 1 - Initialization](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
-  - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving Deep Neural Networks Hyperparameter tuning%2C Regularization and Optimization/Regularization.ipynb)
-  - [Week 1 - PA 3 - Gradient Checking](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving Deep Neural Networks Hyperparameter tuning%2C Regularization and Optimization/Gradient Checking.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization_v2a.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
 - Course 3: Structuring Machine Learning Projects
   - There is no PA for this course
 - Course 4: Convolutional Neural Networks
