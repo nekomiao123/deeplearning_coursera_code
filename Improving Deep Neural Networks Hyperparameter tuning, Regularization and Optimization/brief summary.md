@@ -60,3 +60,28 @@ Finally, try "He Initialization"; this is named for the first author of He et al
 
 ## Regularization
 
+
+
+## Optimization
+
+#### 1. Mini-batch-size
+
+#### 2. Momentum
+
+**Note** that:
+
+- The velocity is initialized with zeros. So the algorithm will take a few iterations to "build up" velocity and start to take bigger steps.
+- If β=0, then this just becomes standard gradient descent without momentum. 
+
+**How do you choose β?**
+
+- The larger the momentum β is, the smoother the update because the more we take the past gradients into account. But if β is too big, it could also smooth out the updates too much. 
+- Common values for β range from 0.8 to 0.999. If you don't feel inclined to tune this, β=0.9 is often a reasonable default. 
+- Tuning the optimal β for your model might need trying several values to see what works best in term of reducing the value of the cost function J.
+
+#### 4. Adam
+
+Some advantages of Adam include:
+
+- Relatively low memory requirements (though higher than gradient descent and gradient descent with momentum) 
+- Usually works well even with little tuning of hyperparameters (except α)
