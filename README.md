@@ -24,12 +24,15 @@ This is all code about the course——DeepLearning
   
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional Neural Networks/Convolution model - Step by Step - v1.ipynb)
-  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional Neural Networks/Convolution model - Application - v1.ipynb)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional Neural Networks/Keras - Tutorial - Happy House v1.ipynb)
-  - [Week 2 - PA 2 - Residual Networks](https://github.com/Kulbear/deep-learning-coursera/blob/master/Convolutional Neural Networks/Residual Networks - v1.ipynb)
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a.ipynb)
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Convolution_model_Application_v1a.ipynb)
+  - [Week 2 - PA 3 - Keras - Tutorial - Happy House](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Keras_Tutorial_v2a.ipynb)
+  - [Week 2 - PA 4 - Residual Networks](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)
+  - [Week 3 - PA5 - Car detection with YOLO](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb)
+  - [Week 4 - PA6 - Art generation with Neural Style Transfer](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+  - [Week 4 - PA7 - Face Recognition](https://github.com/nekomiao123/deeplearning_coursera_code/blob/main/Convolutional%20Neural%20Networks/Face_Recognition_v3a.ipynb)
 
-- Course 5: Sequence Models
+- Course 5: Sequence Models (will be done later)
 
   - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence Models/Building a Recurrent Neural Network - Step by Step - v2.ipynb)
   - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence Models/Dinosaurus Island -- Character level language model final - v3.ipynb)
